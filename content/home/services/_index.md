@@ -1,6 +1,6 @@
 +++
 title = "research areas"
-type = "reseach areas"
+type = "service"
 weight = 1
 +++
 

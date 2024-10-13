@@ -1,5 +1,5 @@
 +++
-title = "Structural Analysis of Historical Constructions"
+title = "Ancient Construction Techniques"
 +++
 
 Investigating the technical aspects of historical buildings where modern engineering methods provide new insights into ancient construction techniques. 

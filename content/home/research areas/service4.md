@@ -1,9 +1,9 @@
 +++
-title = "SEO & SEM services"
+title = "Digital Humanities and Translation of Architectural Terms"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Focus on translating and contextualizing ancient Chinese architectural terms using digital tools to enhance understanding across cultures and disciplines.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Annotation and Translation of 'Tiao Wo' and 'Shang Ang': Insights from this project highlight the importance of accurate translations in understanding cultural and architectural heritage.

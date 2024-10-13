@@ -9,11 +9,11 @@ Hello! I'm Yiming Cao, a dedicated researcher with a rich background in architec
 
 ![about](../images/mac.jpg)
 
-### Necessitatibus
+### Research Focus 
 
 Throughout my career, I've been fortunate to engage in diverse research projects that span from the digital reconstruction of the Ming Dynasty's Nanjing to analyzing the urban dynamics of Bhaktapur through GIS mapping. My work primarily focuses on blending historical insights with contemporary urban planning methodologies to offer new perspectives on sustainable development and heritage conservation.
 
-### Fugit, laboriosam
+### Career Aspirations
 
 As I continue to explore the intersections of data science and urban studies, I am eager to contribute to the field of urban spatial analysis, using big data to enhance our understanding of historical and modern urban environments. My goal is to advance my career in academia, developing research that supports thoughtful and informed urban planning and policy-making.
 

@@ -2,7 +2,7 @@
 title = "Structural Analysis of Historical Constructions"
 +++
 
-Investigating the technical aspects of historical buildings where modern engineering methods provide new insights into ancient construction techniques.
+Investigating the technical aspects of historical buildings where modern engineering methods provide new insights into ancient construction techniques. 
 
 <!--more-->
 

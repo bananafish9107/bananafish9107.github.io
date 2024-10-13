@@ -1,8 +1,8 @@
 +++
-title = "Application of Big Data and GIS in Historical Contexts"
+title = "Historical Urban Analytics"
 +++
 
-Emphasizing the application of quantitative methods and cutting-edge technology to historical research.
+Uses big data and spatial analysis to uncover and reconstruct historical urban plans, providing insights into the urban planning of past civilizations.
 
 <!--more-->
 

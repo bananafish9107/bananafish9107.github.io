@@ -1,5 +1,5 @@
 +++
-title = "Ancient Construction Tech "
+title = "Ancient Building Methods"
 +++
 
 Investigating the technical aspects of historical buildings where modern engineering methods provide new insights into ancient construction techniques. 

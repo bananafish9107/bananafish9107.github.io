@@ -5,14 +5,14 @@ theme = "hugo-initio"
 
 [params]
     name = "Yiming Cao"
-    description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
-    avatar = "images/zjz.jpg"
+    description = ""
+    email = "Yiming9107@gmail.com"
+    phone = "+86 15851859107"
+    address = "21 Shuiyin Road, Guangzhou, Guangdong"
+    year = 2024
+    avatar = "images/pic1.jpg"
     avatarclass = "circle"
-    background = ""
+    background = "SEU"
     banner = "images/bg_head.jpg"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"

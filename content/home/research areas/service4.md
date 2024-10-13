@@ -1,5 +1,5 @@
 +++
-title = "Digital Humanities"
+title = "Digital Humanities "
 +++
 
 Focus on translating and contextualizing ancient Chinese architectural terms using digital tools to enhance understanding across cultures and disciplines.

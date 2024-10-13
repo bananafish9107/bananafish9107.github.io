@@ -7,7 +7,7 @@ weight = 10
 
 Hello! I'm Yiming Cao, a dedicated researcher with a rich background in architecture and a Master's degree in Engineering from Southeast University. My academic journey has been deeply influenced by a fascination with historical urban landscapes and the application of modern analytical techniques to understand and preserve them.
 
-![about](../images/sample_clients.png)
+![about](../images/pic4.jpg)
 
 ### Research Focus 
 

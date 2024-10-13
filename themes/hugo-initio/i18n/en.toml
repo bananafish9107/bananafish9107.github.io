@@ -19,14 +19,14 @@
     other = "Follow me"
 
 [footer_text_title]
-    other = "Text widget"
+    other = "Quick Links"
 [footer_text1]
-    other = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!"
-[footer_text2]
-    other = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!"
+    other = "Southeast University
+    Institute of Architectural history and theory"
+
 
 [footer_form_title]
-    other = "Form widget"
+    other = "Acknowledgments"
 
 [recent_works_click_text]
     other = "See details"

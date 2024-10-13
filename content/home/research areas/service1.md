@@ -1,9 +1,11 @@
 +++
-title = "Custom website design"
+title = "Application of Big Data and GIS in Historical Contexts"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Emphasizing the application of quantitative methods and cutting-edge technology to historical research.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Retroism in Chinese Architecture: Methodological innovations are central to analyzing architectural trends and societal changes.
+
+Ming Dynasty Urban Studies: Combining historical documents with spatial analysis to reconstruct historical urban environments offers fresh insights into past lives and structures.

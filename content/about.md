@@ -5,14 +5,16 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+Hello! I'm Yiming Cao, a dedicated researcher with a rich background in architecture and a Master's degree in Engineering from Southeast University. My academic journey has been deeply influenced by a fascination with historical urban landscapes and the application of modern analytical techniques to understand and preserve them.
 
 ![about](../images/mac.jpg)
 
 ### Necessitatibus
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+Throughout my career, I've been fortunate to engage in diverse research projects that span from the digital reconstruction of the Ming Dynasty's Nanjing to analyzing the urban dynamics of Bhaktapur through GIS mapping. My work primarily focuses on blending historical insights with contemporary urban planning methodologies to offer new perspectives on sustainable development and heritage conservation.
 
 ### Fugit, laboriosam
 
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+As I continue to explore the intersections of data science and urban studies, I am eager to contribute to the field of urban spatial analysis, using big data to enhance our understanding of historical and modern urban environments. My goal is to advance my career in academia, developing research that supports thoughtful and informed urban planning and policy-making.
+
+Thank you for visiting my website, where I share my research, projects, and insights into the ever-evolving dialogue between our past and the future of urban spaces.

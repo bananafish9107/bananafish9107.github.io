@@ -1,5 +1,5 @@
 +++
-title = "research areas"
+title = "Research areas"
 type = "service"
 weight = 1
 +++

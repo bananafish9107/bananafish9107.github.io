@@ -13,9 +13,9 @@ theme = "hugo-initio"
     avatar = "images/pic1.jpg"
     avatarclass = "circle"
     background = "SEU"
-    banner = "images/bg_head.jpg"
-    favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
+    banner = "images/pic2.jpg"
+    favicon = "images/pic3.png"
+    DateForm = "October 13, 2024"
     author = "Sergey Pozhilov (GetTemplate.com)"
 
     showSubheader = true
@@ -34,7 +34,7 @@ theme = "hugo-initio"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "blog"
+    name = "works"
     url = "/post/"
     weight = 5
 
@@ -99,7 +99,7 @@ theme = "hugo-initio"
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mail to:yiming9107@gmail.com"
     icon = "fas fa-envelope-square"
     footer = false
     sharethis = true

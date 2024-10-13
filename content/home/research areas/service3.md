@@ -1,8 +1,8 @@
 +++
-title = "Urban Morphology and Heritage Conservation"
+title = "Urban Heritage & Technology"
 +++
 
-A focus on the intersection of urban design and historical preservation, utilizing modern technology to analyze and preserve urban heritage.
+Integrates advanced GIS and digital mapping technologies to preserve and interpret the urban morphology of historical sites, enhancing regional preservation policies.
 
 <!--more-->
 

@@ -6,4 +6,4 @@ Investigating the technical aspects of historical buildings where modern enginee
 
 <!--more-->
 
-Song Dynasty Brick Pagoda Study: Analysis of material properties and construction techniques underlines the relevance of ancient methods to current architectural practices.
+Song Dynasty Pagoda Techniques: Investigated the structural integrity of imitation woodwork in brick pagodas using stress analysis software, revealing insights into ancient construction logic that bridge gaps between traditional and modern architectural practices.

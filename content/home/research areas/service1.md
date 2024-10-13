@@ -1,5 +1,5 @@
 +++
-title = "Historical Urban Analytics"
+title = "Historical   Urban   Analytics"
 +++
 
 Uses big data and spatial analysis to uncover and reconstruct historical urban plans, providing insights into the urban planning of past civilizations.

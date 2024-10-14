@@ -104,3 +104,4 @@ theme = "hugo-initio"
     footer = false
     sharethis = true
     network = "email"
+staticDir = ['static']

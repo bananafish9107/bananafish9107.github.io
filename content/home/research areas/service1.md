@@ -1,5 +1,5 @@
 +++
-date = "2013-06-17T12:00:00-00:00"
+date = "2018-06-18"
 title = "Historical Urban Analytics"
 +++
 

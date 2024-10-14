@@ -33,16 +33,16 @@
     },
     {
         "id": 2,
-        "name": "Lorem studios - interior and patio design",
+        "name": "Heritage assesment - Sacred Urban Spaces in Bhaktapur",
         "image": "images/pic9.jpg",
         "url": "#",
         "items": [
             {
-                "name": "Web design",
+                "name": "GIS mapping",
                 "url": "#"
             },
             {
-                "name": "Logotype",
+                "name": "Oral history",
                 "url": "#"
             }
         ]

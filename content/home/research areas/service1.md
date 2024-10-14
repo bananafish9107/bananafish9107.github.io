@@ -12,7 +12,6 @@ Utilizes big data and GIS to reconstruct ancient urban landscapes, providing ins
 
 Retroism in Chinese Architecture: Methodological innovations are central to analyzing architectural trends and societal changes.
 
-![about](../images/pic4.jpg)
 ![about](/images/pic12.jpg)
 
 ### Research Focus 

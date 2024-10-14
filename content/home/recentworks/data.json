@@ -12,10 +12,7 @@
             {
                 "name": "Structural analysis",
                 "url": "#"
-            },
-            {
-               
-            }
+            }            
         ]
     },
     {
@@ -85,7 +82,7 @@
     {
         "id": 5,
         "name": "Venice Biennale - the Imperial Palace courtyard studies",
-        "image": "images/pic6.jpg",
+        "image": "images/pic5.jpg",
         "url": "#",
         "items": [
             {

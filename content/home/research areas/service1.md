@@ -9,4 +9,6 @@ Utilizes big data and GIS to reconstruct ancient urban landscapes, providing ins
 
 Retroism in Chinese Architecture: Methodological innovations are central to analyzing architectural trends and societal changes.
 
+### Research Focus 
+
 Ming Dynasty Urban Studies: Combining historical documents with spatial analysis to reconstruct historical urban environments offers fresh insights into past lives and structures.

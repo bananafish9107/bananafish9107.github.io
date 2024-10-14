@@ -19,7 +19,7 @@
         "id": 1,
         "name": "Urban analysis - Ming dynasty Nanjing city study",
         "image": "images/pic8.jpg",
-        "url": "#",
+        "url": "/Urban analysis/",
         "items": [
             {
                 "name": "Historical mapping",
@@ -35,7 +35,7 @@
         "id": 2,
         "name": "Heritage assesment - Sacred Urban Spaces in Bhaktapur",
         "image": "images/pic9.jpg",
-        "url": "#",
+        "url": "/Heritage assesment/",
         "items": [
             {
                 "name": "GIS mapping",
@@ -51,7 +51,7 @@
         "id": 3,
         "name": "Protection Planning - Nanjing Ming dynasty city wall ",
         "image": "images/pic10.jpg",
-        "url": "#",
+        "url": "/Protection Planning/",
         "items": [
             {
                 "name": "Field mapping",
@@ -67,7 +67,7 @@
         "id": 4,
         "name": "Urban design - Redtory rennovation planning",
         "image": "images/pic11.jpg",
-        "url": "#",
+        "url": "/Urban design/",
         "items": [
             {
                 "name": "Cultural heritage assessment",
@@ -83,7 +83,7 @@
         "id": 5,
         "name": "Venice Biennale - the Imperial Palace courtyard studies",
         "image": "images/pic5.jpg",
-        "url": "#",
+        "url": "/Venice Biennale/",
         "items": [
             {
                 "name": "Space research",

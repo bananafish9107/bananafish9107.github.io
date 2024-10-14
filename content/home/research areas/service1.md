@@ -1,6 +1,8 @@
 +++
+
 date = "2018-06-18"
-title = "Historical Urban Analytics"
+
+
 +++
 
 Utilizes big data and GIS to reconstruct ancient urban landscapes, providing insights into the evolution of urban planning and influencing modern methodologies.

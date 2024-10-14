@@ -4,11 +4,17 @@ title = "Works"
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae. Adipisci ad natus deleniti.
+Academic endeavors have consistently bridged historical insights with contemporary urban planning through advanced technological applications, beginning at Southeast University and extending through significant projects at institutions like the Meta Reliability Lab in London and the Nature AI Lab. These projects employ cutting-edge tools to tackle urban challenges effectively.
 
 
-![about](/images/1pic5.jpg)
-Dolores harum alias consequatur blanditiis. Inventore, quod, ullam veritatis eum ratione neque quis fugit quae optio facilis in ipsa! Maiores, quia, possimus repellendus iusto nostrum nisi doloribus qui excepturi ducimus veritatis molestiae autem consequatur quae ex nihil id sapiente minima adipisci. Quibusdam, aperiam, sapiente, nobis, possimus vero laudantium delectus esse minus quo nihil perspiciatis accusamus. Cupiditate sapiente illum accusantium animi pariatur sed minima nam.
+![about](/images/pic12.jpg)
+At the Meta Reliability Lab, the Urban Mobility and Analytics Workshop utilized technologies such as point cloud and object detection to analyze and enhance urban mobility solutions. This integration of geotagged data advanced the understanding of urban environments, aiding in the development of efficient city planning strategies.Similarly, the Computer Vision and Built Environment Extraction Workshop at Nature AI Lab harnessed social media image data to provide spatial insights into activity distribution across urban spaces, assisting planners in enhancing urban vitality.
 
-Harum, consectetur, quia nisi fugiat quasi ea amet cum inventore aperiam optio qui perspiciatis debitis molestiae laborum minima doloremque ullam eum nesciunt repellendus dolor dicta cumque deserunt. Quaerat, saepe, maxime, quod, dolor nisi assumenda aut est quos optio animi aliquid quidem voluptates adipisci hic recusandae dicta quis eligendi illo ducimus asperiores reiciendis odit distinctio natus? In, reprehenderit, facere, ipsam, vel architecto autem temporibus a quidem voluptatum at nesciunt quas facilis. Soluta, excepturi, nihil, illum dicta hic ratione tenetur voluptate dolorum a tempore dignissimos reprehenderit voluptas expedita officiis enim minus adipisci?
+Historical context was also a focus in the study of 'Retroism' in the Chinese Architectural Context of the 1950s, where digital archival tools were used to explore the interplay between architectural forms and societal values, significantly influencing mid-century Chinese architecture.
+
+The Study of the Nanjing Treasure Shipyard integrated GIS and remote sensing to map and model this ancient Ming Dynasty site, facilitating preservation efforts and supporting its nomination for World Heritage status by highlighting its cultural significance.The study on Song Dynasty Brick Pagoda Imitation Woodwork applied structural analysis and materials science, advancing the understanding of traditional construction practices and linking them to modern engineering principles.
+
+The work also included enhancing the accuracy and contextual understanding of historical architectural terms through the Translation of Ancient Chinese Architectural Terms, fostering international collaboration and a deeper global appreciation of ancient Chinese architecture.
+
+Collectively, these projects underscore a commitment to employing innovative methodologies to understand and reshape urban environments, influencing both historical scholarship and contemporary urban development strategies.
 

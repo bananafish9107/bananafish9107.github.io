@@ -34,7 +34,7 @@ theme = "hugo-initio"
     weight = 1
 [[menu.main]]
     name = "works"
-    url = "/post/"
+    url = "/works/"
     weight = 5
 
 [params.disqus]

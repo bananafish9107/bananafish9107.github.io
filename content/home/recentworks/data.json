@@ -69,16 +69,16 @@
     },
     {
         "id": 4,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
+        "name": "Urban design - Redtory rennovation planning",
+        "image": "images/pic11.jpg",
         "url": "#",
         "items": [
             {
-                "name": "Web design",
+                "name": "Cultural heritage assessment",
                 "url": "#"
             },
             {
-                "name": "Logotype",
+                "name": "Project management",
                 "url": "#"
             }
         ]

@@ -35,7 +35,7 @@
         "id": 2,
         "name": "Heritage assessment - Sacred Urban Spaces in Bhaktapur",
         "image": "images/pic9.jpg",
-        "url": "/heritage/heritage-assessment/",
+        "url": "/home/heritage/heritage-assessment/",
         "items": [
             {
                 "name": "GIS mapping",
@@ -67,7 +67,7 @@
         "id": 4,
         "name": "Urban design - Redtory rennovation planning",
         "image": "images/pic11.jpg",
-        "url": "/home/design/urban-design/",
+        "url": "/home/design/ancient-construction/",
         "items": [
             {
                 "name": "Cultural heritage assessment",

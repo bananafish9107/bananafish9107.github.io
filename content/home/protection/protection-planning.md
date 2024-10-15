@@ -1,20 +1,35 @@
 +++
 date = "2024-10-14"
-title = "Works"
+title = "Protection Planning"
 
 +++
 
-Academic endeavors have consistently bridged historical insights with contemporary urban planning through advanced technological applications, beginning at Southeast University and extending through significant projects at institutions like the Meta Reliability Lab in London and the Nature AI Lab. These projects employ cutting-edge tools to tackle urban challenges effectively.
+#### Nanjing Ming Dynasty City Wall: A Multidisciplinary Approach to Urban Heritage Conservation
+
+Tutor:Peng Tang, Yuan Zhu, Nanjing & Roma & Firenze, 2018
 
 
-![about](/images/pic12.jpg)
-At the Meta Reliability Lab, the Urban Mobility and Analytics Workshop utilized technologies such as point cloud and object detection to analyze and enhance urban mobility solutions. This integration of geotagged data advanced the understanding of urban environments, aiding in the development of efficient city planning strategies.Similarly, the Computer Vision and Built Environment Extraction Workshop at Nature AI Lab harnessed social media image data to provide spatial insights into activity distribution across urban spaces, assisting planners in enhancing urban vitality.
+The Protection Planning project for the Nanjing Ming Dynasty City Wall, a collaborative effort with Southeast University, Tianjin University, Rome University, and Florence University, aimed to integrate comprehensive protection strategies with urban renewal. This project focused on preserving the historical integrity of the city wall while enhancing the surrounding urban fabric to meet contemporary needs.
 
-Historical context was also a focus in the study of 'Retroism' in the Chinese Architectural Context of the 1950s, where digital archival tools were used to explore the interplay between architectural forms and societal values, significantly influencing mid-century Chinese architecture.
+![about](/images/pic13.jpg)
+##### Historical Assessment:
+A detailed review of the city wall's historical significance, supported by extensive field surveys and literature reviews, established the foundation for the preservation strategies.The project developed pivotal nodes and urban sections along the city wall that address commercial, cultural, social, and ecological considerations. These designs were informed by the dynamic history of the city's development and aimed to revitalize and integrate the wall into the modern urban landscape.Designs included transforming key areas such as the Northern section adjacent to railways into lively cultural hubs. Proposals utilized the potential relocation of rail facilities to enhance access and connectivity, turning the city wall into a vibrant public realm.
 
-The Study of the Nanjing Treasure Shipyard integrated GIS and remote sensing to map and model this ancient Ming Dynasty site, facilitating preservation efforts and supporting its nomination for World Heritage status by highlighting its cultural significance.The study on Song Dynasty Brick Pagoda Imitation Woodwork applied structural analysis and materials science, advancing the understanding of traditional construction practices and linking them to modern engineering principles.
 
-The work also included enhancing the accuracy and contextual understanding of historical architectural terms through the Translation of Ancient Chinese Architectural Terms, fostering international collaboration and a deeper global appreciation of ancient Chinese architecture.
+##### Cultural and Ecological Integration:
+Tourism and Cultural Connectivity: Leveraging nearby historical and scenic sites, the project proposed a tourism route linking major landmarks with the city wall. This route aimed to enhance visitor experience and cultural appreciation, showcasing the wall not just as a boundary but as a central narrative thread in the city’s urban tapestry. Ecological and Recreational Spaces: Plans for green belts, leisure zones, and cultural venues along the wall encouraged community engagement and ecological sustainability, transforming the wall’s vicinity into a multifunctional urban corridor.
 
-Collectively, these projects underscore a commitment to employing innovative methodologies to understand and reshape urban environments, influencing both historical scholarship and contemporary urban development strategies.
 
+![about](/images/pic14.jpg)
+
+##### Community and Economic Revitalization:
+Cultural Creative Clusters: The project envisioned the redevelopment of underused warehouses into cultural and creative industries hubs, fostering economic development and cultural innovation.Urban Connectivity: By improving transport links and integrating the city wall into broader urban development plans, the project aimed to mend the spatial and functional discontinuities around the wall, enhancing urban cohesion and accessibility.
+
+
+![about](/images/pic15.jpg)
+##### Conservation and Enhancement:
+Architectural Interventions: Sensitive architectural interventions aimed to respect the historic fabric while providing modern amenities, ensuring that conservation efforts align with the wall’s historical significance and urban context.
+Public Participation and Education: The project emphasized community involvement and education, promoting awareness and stewardship of the city wall through interactive exhibits and public programs.
+
+
+This initiative not only preserved a significant historical artifact but also redefined it as a pivotal element of Nanjing’s urban identity, demonstrating innovative approaches to heritage conservation and sustainable urban development.

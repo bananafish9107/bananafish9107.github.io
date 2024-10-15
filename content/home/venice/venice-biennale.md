@@ -1,20 +1,33 @@
 +++
 date = "2024-10-14"
-title = "Works"
+title = "Digital Humanities"
 
 +++
 
-Academic endeavors have consistently bridged historical insights with contemporary urban planning through advanced technological applications, beginning at Southeast University and extending through significant projects at institutions like the Meta Reliability Lab in London and the Nature AI Lab. These projects employ cutting-edge tools to tackle urban challenges effectively.
+
+#### Venice Biennale - the Imperial Palace courtyard studies
+
+Venice International Architecture Biennale 
+- Chinese Pavilion, 2020 (Postponed to 2021, Jingdezhen due to COVID)
+
+Yuan-er: A Journey Through Courtyards
+
+Project Synopsis: Featured at the 17th Venice International Architecture Biennale, the exhibition "Yuan-er—From the Mega to the Micro" delves into the evolution of the traditional Chinese courtyard. Through a detailed exploration of these spaces, the project connects historical architectural forms with their modern interpretations, revealing the continuity and transformation of communal living across ages.
+
+![about](/images/pic13.jpg)
+##### Exhibition Features
+1.Yu Garden Courtyards: Showcases the architectural complexity and cultural significance of multiple courtyards within the historic Yu Garden, highlighting their role in community and heritage.
+2.Yangxin Hall Courtyards: Provides an in-depth analysis of the courtyards in the Forbidden City’s Yangxin Hall, focusing on their architectural and functional transformations through time.
+3.Shang Bo Garden Integration: Explores the incorporation of traditional courtyard concepts into contemporary urban designs, suggesting future pathways for integrating historical wisdom into modern living spaces.
 
 
-![about](/images/pic12.jpg)
-At the Meta Reliability Lab, the Urban Mobility and Analytics Workshop utilized technologies such as point cloud and object detection to analyze and enhance urban mobility solutions. This integration of geotagged data advanced the understanding of urban environments, aiding in the development of efficient city planning strategies.Similarly, the Computer Vision and Built Environment Extraction Workshop at Nature AI Lab harnessed social media image data to provide spatial insights into activity distribution across urban spaces, assisting planners in enhancing urban vitality.
+##### Conceptual Themes                  
 
-Historical context was also a focus in the study of 'Retroism' in the Chinese Architectural Context of the 1950s, where digital archival tools were used to explore the interplay between architectural forms and societal values, significantly influencing mid-century Chinese architecture.
+•Architectural Evolution: Traces the architectural development from imperial grandeur to everyday neighborhood spaces, emphasizing adaptability and sustainability.
+•Cultural Narratives: Examines how courtyards have facilitated communal living, cultural practices, and social interactions throughout Chinese history.
+•Future of Urban Living: Envisions the role of traditional designs in future urban landscapes, promoting a blend of heritage and innovation in building community-centric spaces.
 
-The Study of the Nanjing Treasure Shipyard integrated GIS and remote sensing to map and model this ancient Ming Dynasty site, facilitating preservation efforts and supporting its nomination for World Heritage status by highlighting its cultural significance.The study on Song Dynasty Brick Pagoda Imitation Woodwork applied structural analysis and materials science, advancing the understanding of traditional construction practices and linking them to modern engineering principles.
 
-The work also included enhancing the accuracy and contextual understanding of historical architectural terms through the Translation of Ancient Chinese Architectural Terms, fostering international collaboration and a deeper global appreciation of ancient Chinese architecture.
+![about](/images/pic14.jpg)
 
-Collectively, these projects underscore a commitment to employing innovative methodologies to understand and reshape urban environments, influencing both historical scholarship and contemporary urban development strategies.
-
+Project Significance: Our studio's work at the Biennale illustrates a profound respect for historical architecture while advocating for its adaptation into modern urban environments. The project invites viewers to reconsider how traditional designs can be dynamically transformed to meet contemporary needs and environmental challenges.

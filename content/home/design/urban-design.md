@@ -29,6 +29,6 @@ In coordinating the project, I was instrumental in laying out the workflow and m
 Choosing the right partners was critical to the project's success. I took a leading role in selecting collaboration studios, evaluating potential partners based on their expertise in historical preservation and urban design innovation. This process was guided by a strategic vision to bring together diverse skills that complemented each other, ensuring a holistic approach to the renovation.
 
 ![about](/images/pic16.jpg)
-The Redtory renovation project is set to redefine the local urban landscape by transforming a historic site into a dynamic public space that caters to cultural, educational, and social activities. My contributions have not only supported the project's foundational stages but have also set the stage for ongoing development phases. Future work will continue to build on this foundation, focusing on sustainable urban growth and community engagement, ensuring the Readtory site remains a beacon of cultural heritage and modern urban design.
+The Redtory renovation project is set to redefine the local urban landscape by transforming a historic site into a dynamic public space that caters to cultural, educational, and social activities. Future work will continue to build on this foundation, focusing on sustainable urban growth and community engagement, ensuring the Readtory site remains a beacon of cultural heritage and modern urban design.
 
 

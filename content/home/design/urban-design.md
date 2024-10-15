@@ -1,20 +1,34 @@
 +++
 date = "2024-10-14"
-title = "Works"
+title = "Urban Design"
 
 +++
 
-Academic endeavors have consistently bridged historical insights with contemporary urban planning through advanced technological applications, beginning at Southeast University and extending through significant projects at institutions like the Meta Reliability Lab in London and the Nature AI Lab. These projects employ cutting-edge tools to tackle urban challenges effectively.
 
 
-![about](/images/pic12.jpg)
-At the Meta Reliability Lab, the Urban Mobility and Analytics Workshop utilized technologies such as point cloud and object detection to analyze and enhance urban mobility solutions. This integration of geotagged data advanced the understanding of urban environments, aiding in the development of efficient city planning strategies.Similarly, the Computer Vision and Built Environment Extraction Workshop at Nature AI Lab harnessed social media image data to provide spatial insights into activity distribution across urban spaces, assisting planners in enhancing urban vitality.
+#### Readtory Renovation Planning: Integrating Urban Design and Heritage Conservation
 
-Historical context was also a focus in the study of 'Retroism' in the Chinese Architectural Context of the 1950s, where digital archival tools were used to explore the interplay between architectural forms and societal values, significantly influencing mid-century Chinese architecture.
+Guangzhou Urban Construction Development Co. Ltd, 2022
 
-The Study of the Nanjing Treasure Shipyard integrated GIS and remote sensing to map and model this ancient Ming Dynasty site, facilitating preservation efforts and supporting its nomination for World Heritage status by highlighting its cultural significance.The study on Song Dynasty Brick Pagoda Imitation Woodwork applied structural analysis and materials science, advancing the understanding of traditional construction practices and linking them to modern engineering principles.
+The Readtory renovation project represents a pivotal initiative in urban regeneration, focusing on the revitalization of a historic site into a vibrant cultural and community hub. As a key member of the project management team, my role spanned across various critical phases of the project, from initial field research and conceptual design to historical building assessment and the strategic selection of collaboration studios.
 
-The work also included enhancing the accuracy and contextual understanding of historical architectural terms through the Translation of Ancient Chinese Architectural Terms, fostering international collaboration and a deeper global appreciation of ancient Chinese architecture.
+![about](/images/pic13.jpg)
+##### Field Research and Concept Development
+My involvement began with extensive field research, where I engaged directly with the site's spatial dynamics and historical context. This phase was crucial for understanding the intrinsic values and challenges posed by the existing structures. Insights gained from this research fed directly into the concept design phase, where I contributed to developing a vision that balanced the preservation of historical integrity with the introduction of modern urban design elements.
 
-Collectively, these projects underscore a commitment to employing innovative methodologies to understand and reshape urban environments, influencing both historical scholarship and contemporary urban development strategies.
+##### Historical Building Assessment                        
+A significant aspect of my role was assessing the historical buildings within the project area. This involved detailed analysis to determine the structural and aesthetic conditions of the buildings and evaluating their potential for integration into the new design. My assessments helped ensure that renovation plans respected the site’s heritage while aligning with contemporary safety and design standards.
+
+![about](/images/pic14.jpg)
+
+##### Work Layout and Project Coordination
+In coordinating the project, I was instrumental in laying out the workflow and milestones for the team. This included organizing tasks, managing timelines, and ensuring that all team members, from architects to conservation experts, were aligned with the project's objectives. My role ensured that the project remained on track and adhered to its defined goals, facilitating a smooth transition from planning to execution.
+
+![about](/images/pic15.jpg)
+##### Selecting Cooperation Studios
+Choosing the right partners was critical to the project's success. I took a leading role in selecting collaboration studios, evaluating potential partners based on their expertise in historical preservation and urban design innovation. This process was guided by a strategic vision to bring together diverse skills that complemented each other, ensuring a holistic approach to the renovation.
+
+![about](/images/pic16.jpg)
+The Redtory renovation project is set to redefine the local urban landscape by transforming a historic site into a dynamic public space that caters to cultural, educational, and social activities. My contributions have not only supported the project's foundational stages but have also set the stage for ongoing development phases. Future work will continue to build on this foundation, focusing on sustainable urban growth and community engagement, ensuring the Readtory site remains a beacon of cultural heritage and modern urban design.
+
 

@@ -7,11 +7,11 @@
         "items": [
             {
                 "name": "Digital modeling",
-                "url": "#"
+                "url": "/home/ancient/ancient-construction/"
             },
             {
                 "name": "Structural analysis",
-                "url": "#"
+                "url": "/home/ancient/ancient-construction/"
             }            
         ]
     },
@@ -19,7 +19,7 @@
         "id": 1,
         "name": "Urban analysis - Ming dynasty Nanjing city study",
         "image": "images/pic8.jpg",
-        "url": "/Urban analysis/",
+        "url": "/home/analysis/urban-analysis/",
         "items": [
             {
                 "name": "Historical mapping",

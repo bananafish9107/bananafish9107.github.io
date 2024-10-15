@@ -35,7 +35,7 @@
         "id": 2,
         "name": "Heritage assessment - Sacred Urban Spaces in Bhaktapur",
         "image": "images/pic9.jpg",
-        "url": "/home/heritage/heritage-assessment/",
+        "url": "/heritage/heritage-assessment/",
         "items": [
             {
                 "name": "GIS mapping",
@@ -67,7 +67,7 @@
         "id": 4,
         "name": "Urban design - Redtory rennovation planning",
         "image": "images/pic11.jpg",
-        "url": "/Urban design/",
+        "url": "/home/design/urban-design/",
         "items": [
             {
                 "name": "Cultural heritage assessment",
@@ -83,7 +83,7 @@
         "id": 5,
         "name": "Venice Biennale - the Imperial Palace courtyard studies",
         "image": "images/pic5.jpg",
-        "url": "/Venice Biennale/",
+        "url": "/home/venice/venice-biennale/",
         "items": [
             {
                 "name": "Space research",

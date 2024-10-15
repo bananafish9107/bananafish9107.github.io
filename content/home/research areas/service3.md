@@ -1,5 +1,6 @@
 +++
 title = "Urban Heritage & Technology"
+date = "2024-05-18"
 +++
 
 Integrates advanced GIS and digital mapping technologies to preserve and interpret the urban morphology of historical sites, enhancing regional preservation policies.

@@ -1,5 +1,6 @@
 +++
-title = "Digital Humanities "
+title = "Digital Humanities"
+date = "2024-07-18"
 +++
 
 Focus on translating and contextualizing ancient Chinese architectural terms using digital tools to enhance understanding across cultures and disciplines.

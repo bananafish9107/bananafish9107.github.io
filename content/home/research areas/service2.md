@@ -1,5 +1,6 @@
 +++
 title = "Ancient Building Methods"
+date = "2024-03-18"
 +++
 
 Investigating the technical aspects of historical buildings where modern engineering methods provide new insights into ancient construction techniques. 

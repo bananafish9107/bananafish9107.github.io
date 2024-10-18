@@ -19,7 +19,7 @@ The construction of treasure ships and the subsequent expansion of the Treasure 
 ##### Impact on Urban Architecture and Civic Life
 The Treasure Shipyard emerged as a critical node of economic and cultural activity, reshaping various facets of urban life in Ming Nanjing. It fostered a diverse urban environment, where the construction of religious and cultural edifices was integrally linked with the shipyard's operational demands. This section highlights how the shipyard’s activities were intricately connected with broader urban planning and architectural responses, reflecting a holistic approach to urban development.
 
-![about](/images/pic14.jpg)
+![about](/images/pic17.jpg)
 
 ##### Preservation and Urban Analytical Perspectives
 The conclusion of this study presents strategies for the preservation of the Treasure Shipyard, emphasizing the need for an urban analytical approach that appreciates its historical and contemporary significance. Recommendations include conducting detailed archaeological and urban studies to further understand the shipyard’s enduring influence on Nanjing’s urban landscape, proposing that these findings inform modern urban development and heritage conservation.

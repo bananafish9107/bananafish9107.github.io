@@ -13,8 +13,8 @@ Utilizes big data and GIS to reconstruct ancient urban landscapes, providing ins
 
 ### Main Research Projects
 
-##### Retroism in Chinese Architecture: 
-Methodological innovations are central to analyzing architectural trends and societal changes.
+##### Computer Vision and Built Environment Extraction Workshop
+Led a project that harnessed machine learning algorithms to analyze social media images for urban studies, revealing patterns of urban vitality and community engagement across diverse spaces. This approach demonstrated the potential of user-generated content as a powerful tool for urban analysis and planning.
 
 ##### Ming Dynasty Urban Studies: 
-Combining historical documents with spatial analysis to reconstruct historical urban environments offers fresh insights into past lives and structures.
+Study of the Nanjing Treasure Shipyard in the Ming Dynasty: Utilized GIS and remote sensing technologies to accurately map and model the historical layout of the Nanjing Treasure Shipyard. This project involved analyzing big data to reveal insights about Ming Dynasty maritime logistics and urban development, significantly contributing to the preservation and understanding of this critical historical site.

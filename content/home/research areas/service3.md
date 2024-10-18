@@ -7,6 +7,10 @@ Integrates advanced GIS and digital mapping technologies to preserve and interpr
 
 <!--more-->
 
-Bhaktapur Urban Morphology Project: This project involved mapping and documenting heritage sites to influence urban planning positively.
+### Main Research Projects
 
-Nanjing Treasure Shipyard Study: Employing GIS and big data to map historical sites, advocating for their preservation and recognizing their cultural significance.
+##### Nanjing Ming Dynasty Exterior City Wall Conservation Planning
+Spearheaded a collaborative initiative that combined field surveys with sophisticated GIS mapping to develop a comprehensive conservation strategy for Nanjing’s historic city walls. This project not only aimed to preserve but also to integrate the city’s rich history into its modern urban fabric.
+
+##### Spiritual Places—Sacred Urban Spaces and Daily Living Patterns in Bhaktapur
+Developed a culturally sensitive heritage walk that employed GIS and spatial analysis to connect physical landmarks with intangible cultural practices. This innovative approach has enhanced the visitor experience, allowing for a deeper appreciation of Bhaktapur’s religious architecture intertwined with daily community life.
